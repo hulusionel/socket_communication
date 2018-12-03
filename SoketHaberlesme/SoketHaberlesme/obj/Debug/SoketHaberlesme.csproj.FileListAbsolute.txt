@@ -1,0 +1,20 @@
+C:\Users\hulus\Desktop\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\bin\Debug\SoketHaberlesme.exe.config
+C:\Users\hulus\Desktop\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\bin\Debug\SoketHaberlesme.exe
+C:\Users\hulus\Desktop\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\bin\Debug\SoketHaberlesme.pdb
+C:\Users\hulus\Desktop\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\obj\Debug\SoketHaberlesme.csprojAssemblyReference.cache
+C:\Users\hulus\Desktop\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\obj\Debug\SoketHaberlesme.Form1.resources
+C:\Users\hulus\Desktop\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\obj\Debug\SoketHaberlesme.Properties.Resources.resources
+C:\Users\hulus\Desktop\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\obj\Debug\SoketHaberlesme.csproj.GenerateResource.cache
+C:\Users\hulus\Desktop\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\obj\Debug\SoketHaberlesme.csproj.CoreCompileInputs.cache
+C:\Users\hulus\Desktop\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\obj\Debug\SoketHaberlesme.exe
+C:\Users\hulus\Desktop\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\obj\Debug\SoketHaberlesme.pdb
+C:\Users\hulus\Desktop\ders\3-1\emin-yazılım sınama\ödev\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\bin\Debug\SoketHaberlesme.exe.config
+C:\Users\hulus\Desktop\ders\3-1\emin-yazılım sınama\ödev\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\bin\Debug\SoketHaberlesme.exe
+C:\Users\hulus\Desktop\ders\3-1\emin-yazılım sınama\ödev\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\bin\Debug\SoketHaberlesme.pdb
+C:\Users\hulus\Desktop\ders\3-1\emin-yazılım sınama\ödev\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\obj\Debug\SoketHaberlesme.csprojAssemblyReference.cache
+C:\Users\hulus\Desktop\ders\3-1\emin-yazılım sınama\ödev\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\obj\Debug\SoketHaberlesme.Form1.resources
+C:\Users\hulus\Desktop\ders\3-1\emin-yazılım sınama\ödev\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\obj\Debug\SoketHaberlesme.Properties.Resources.resources
+C:\Users\hulus\Desktop\ders\3-1\emin-yazılım sınama\ödev\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\obj\Debug\SoketHaberlesme.csproj.GenerateResource.cache
+C:\Users\hulus\Desktop\ders\3-1\emin-yazılım sınama\ödev\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\obj\Debug\SoketHaberlesme.csproj.CoreCompileInputs.cache
+C:\Users\hulus\Desktop\ders\3-1\emin-yazılım sınama\ödev\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\obj\Debug\SoketHaberlesme.exe
+C:\Users\hulus\Desktop\ders\3-1\emin-yazılım sınama\ödev\soketHaberleşme\SoketHaberlesme\SoketHaberlesme\obj\Debug\SoketHaberlesme.pdb
